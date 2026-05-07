@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manognya%20Lokesh%20Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Researcher%20%7C%20Builder&descAlignY=55&descSize=18" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Manognya+Lokesh+Reddy+👋;AI+%26+ML+Engineer+%7C+Researcher+%7C+Builder;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI+that+matters+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MS+Artificial+Intelligence+%40+UMich-Dearborn;Graduate+Research+Assistant;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI+that+matters+🚀)](https://git.io/typing-svg)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manognya-lokesh-reddy-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manognya86)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manognya86.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/captain_chaos_86_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manognya.l2003@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manognya86&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -14,30 +22,19 @@
 class Manognya:
     def __init__(self):
         self.name       = "Manognya Lokesh Reddy"
-        self.location   = "Dearborn, MI, USA"
-        self.education  = "MS Artificial Intelligence @ University of Michigan-Dearborn (GPA: 3.6, Dec 2026)"
+        self.location   = "Dearborn, MI, USA 📍"
+        self.education  = "MS Artificial Intelligence @ University of Michigan-Dearborn (GPA: 3.6 | Dec 2026)"
         self.role       = "Graduate Research Assistant — Computer Vision & Hybrid AI Systems"
-        self.currently  = ["Federated Learning with Adversarial Resilience",
-                           "Differential Privacy for Privacy-Preserving ML"]
-        self.ask_me     = ["Python", "Deep Learning", "NLP", "LLMs", "Computer Vision", "MLOps", "AWS", "GCP"]
+        self.currently  = [
+            "Federated Learning with Adversarial Resilience",
+            "Differential Privacy for Privacy-Preserving ML",
+            "Monocular Distance Estimation using License Plate Typography"
+        ]
+        self.ask_me     = ["Python", "Deep Learning", "NLP", "LLMs", "Computer Vision", "MLOps"]
         self.email      = "manognya.l2003@gmail.com"
         self.portfolio  = "https://manognya86.github.io/Portfolio/"
         self.fun_fact   = "National-level swimmer 🏊 | State-level footballer ⚽ | Mridangam artist 🥁"
 ```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manognya-lokesh-reddy-/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manognya86)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manognya86.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/captain_chaos_86_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manognya.l2003@gmail.com)
-
-</div>
 
 ---
 
@@ -103,7 +100,7 @@ class Manognya:
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 🤖 Robotics & Other
+### ⚙️ Robotics & Other
 <p align="center">
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -116,38 +113,21 @@ class Manognya:
 
 ## 📜 Publications
 
-| Year | Paper | Journal |
-|------|-------|---------|
-| 2025 | 📄 **Automated White Blood Cell Subtype Classification** — Deep Learning, 95% accuracy | IJARESM, Vol. 13, Issue 5 |
-| 2024 | 📄 **Bias and Fairness in AI Models** — Ethical AI & mitigation strategies | IJISRT, Vol. 9, Issue 9 |
-| 2024 | 📄 **Docu Detective.AI – A PDF Referencing Chatbot** — LLM-based multilingual retrieval | IRJIET, Vol. 8, Issue 4 |
-| 2024 | 🎥 **Time Series Forecasting using ML Models** — Industry Project | YouTube × Donyati |
+> 6 peer-reviewed papers & industry publications across AI, Deep Learning, Computer Vision, and Ethics.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manognya86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manognya86&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manognya86&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+| Year | Paper | Venue |
+|------|-------|-------|
+| 2026 | 🚗 **Physics-Grounded Monocular Vehicle Distance Estimation Using Standardized License Plate Typography** | ASME DRIVN2026-191429 |
+| 2026 | 🚗 **Typography-Based Monocular Distance Estimation Framework for Vehicle Safety Systems** | ASME IDETC/CIE2026-195012 |
+| 2025 | 🩺 **Automated White Blood Cell Subtype Classification** — Deep Learning, 95% accuracy | IJARESM, Vol. 13, Issue 5 |
+| 2024 | ⚖️ **Bias and Fairness in AI Models** — Ethical AI & mitigation strategies | IJISRT, Vol. 9, Issue 9 |
+| 2024 | 💬 **Docu Detective.AI – A PDF Referencing Chatbot** — LLM-based multilingual retrieval | IRJIET, Vol. 8, Issue 4 |
+| 2024 | 📈 **Time Series Forecasting using ML Models** — Industry Project | YouTube × Donyati |
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 *"Turning data into decisions, and models into impact."* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manognya86&color=58A6FF&style=for-the-badge)
 
 </div>
